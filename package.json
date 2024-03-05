@@ -43,6 +43,8 @@
     "node-notifier": "10.0.1",
     "nx": "18.0.7",
     "postcss": "8.4.35",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1",
     "regenerator-runtime": "0.14.1",
     "stylelint": "15.11.0",
     "ts-node": "10.9.2",
